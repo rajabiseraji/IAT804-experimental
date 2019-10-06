@@ -1,0 +1,48 @@
+Sorry about the bad formatting from my last email (not sure what happened!). Here's a better version and my paper which I forgot to attach, although Andy Field's guide is much better.
+
+ 
+How do I report the descriptive and inferential results?
+While there’s no one style to report results, there are a few key formatting conventions that you should follow. Typically, this is in APA format. Some resources that can help you:
+- Andy Field Chapter 4.4 Reporting Descriptive Statistics; Chapter 6 Writing the Result
+- Existing papers 
+- I’ve attached one of my old papers as an example, although it’s not perfect, it does show how to report stats in a concise way (effect size is missing though...)
+- The Internet: There are so many resources and examples out there; use a search engine
+
+What kind of graphs should I include? What about histograms?
+Look at the tutorial example graph. This is what you need for each of the hypotheses in the assignment. You can use a bar chart if you like. Clearly label your graphs and have meaningful axes.
+
+Should I include error bars on my graphs? Which ones?
+Yes! There are three main types of error bars, and you can use any of them so long as you indicate which one you used:
+Standard Deviation: a property of the variable. It gives an impression of the range in which the values scatter (dispersion of the data). When this is important then show the SD.
+Confidence Interval: a property of the estimation (for instance the mean). The (frequentist) interpretation is that the given proportion of such intervals will include the "true" parameter value (for instance the mean). Only 5% of 95%-CIs will not include the "true" values. If you want to show the precision of the estimation then show the CI.
+Standard Error: simply just a 63%-CI, so usually CI is preferred
+
+To what decimal place do I report my results?
+According to APA format, two decimal places, with the exception of some p values. Essentially this is reporting significant figures.
+
+What’s the difference between post hoc tests and contrasts? How do I report them?
+Contrasts compare a precise set of hypotheses rather than a post hoc test, which compares everything with everything else. In this assignment, we are running post hoc tests. For more information on post hoc tests, look at the back Index of Andy Field’s book under “post hoc tests”, which show where in the book they are mentioned. Specifically, the ANOVA sections are a good place to start.
+
+Do I use simple or polynomial contrasts?
+You can use either for this assignment. This should not make a significant difference to you analysis results.
+
+How and when do I calculate effect size?
+I wrote a lot about effect size in the stats tutorial Google Doc (near the end). “N” is the number of participants per group. In the tutorial example this would be 12 per group. There are different ways to compute effect size, but the formula I provided in the stats tutorial is preferred. See Andy Field’s book section 5.1 for more explanation. Section 6.6 also talks about calculating effect size. Is your means square effect - means square error a negative number? You can’t take the square root of this, so you will have to use a different model (see Andy Field end of section 6.8). 
+
+What should the discussion look like?
+This is NOT a repeat of the results. You should critically discuss the results and their implications for the research project as a whole. Ideally, you should refer to prior literature, discuss the limitations of the research, and provide suggestions for future work. Look at existing papers for inspiration (like assignment 2 papers).
+
+
+ 
+
+ 
+Alexandra Kitson
+ 
+PhD Candidate | School of Interactive Arts & Technology 
+Faculty of Communication, Art and Technology | Simon Fraser University
+T: 778.866.1185 | alexandrakitson.com | ispace.iat.sfu.ca/person/alex-kitson/
+ 
+ 
+I respectfully acknowledge SFU is on unceded Coast Salish Territory; the traditional territories of the Musqueam, Squamish, Tsleil-Waututh and Kwikwetlem First Nations.
+ 
+She, Her, Hers
